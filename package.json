@@ -1,0 +1,19 @@
+{
+  "name": "appchat",
+  "version": "1.0.0",
+  "description": "Chat develop by Paul et Robin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Paul Micehel et Le Caignec Robin",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3",
+    "swig": "^1.4.2"
+  },
+  "keywords": []
+}
